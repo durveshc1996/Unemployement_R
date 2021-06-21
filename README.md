@@ -3,22 +3,28 @@ The project presents time-series analysis on annual unemployment rate, an import
 
 # Screenshots: 
 
-The flow of the project:
+##### The flow of the project:
+
 ![image](https://user-images.githubusercontent.com/86138415/122757750-59ba8980-d2db-11eb-9b8e-6a5e2bec6824.png)
 
-Time-Series Plot of Unemployment Rate (2010-2021):
+##### Time-Series Plot of Unemployment Rate (2010-2021):
+
 ![image](https://user-images.githubusercontent.com/86138415/122758850-a0f54a00-d2dc-11eb-949e-158233908d00.png)
 
-First differencing: 
+ ##### First differencing: 
+
 ![image](https://user-images.githubusercontent.com/86138415/122758383-157bb900-d2dc-11eb-8958-9cbdfb7cd1c4.png)
 
-McLeod Li Test and Normal Q-Q Plot(For Garch Model):
+##### McLeod Li Test and Normal Q-Q Plot(For Garch Model):
+
 ![image](https://user-images.githubusercontent.com/86138415/122758501-35ab7800-d2dc-11eb-908c-6e651b5cf3db.png)
 
-ARIMA(3,1,2) residuals: 
+##### ARIMA(3,1,2) residuals: 
+
 ![image](https://user-images.githubusercontent.com/86138415/122758578-4f4cbf80-d2dc-11eb-8fd6-30b2798c0898.png)
 
-Forecast: 
+##### Forecast: 
+
 ![image](https://user-images.githubusercontent.com/86138415/122758797-8f13a700-d2dc-11eb-8ff6-71c467e63953.png)
 
 
