@@ -10,18 +10,20 @@ The project presents time-series analysis on annual unemployment rate, an import
 ##### Time-Series Plot of Unemployment Rate (2010-2021):
 
 ![image](https://user-images.githubusercontent.com/86138415/122758850-a0f54a00-d2dc-11eb-949e-158233908d00.png)
-
- ##### First differencing: 
+ 
+##### McLeod Li Test and Normal Q-Q Plot(For Garch Model):
 
 ![image](https://user-images.githubusercontent.com/86138415/122758383-157bb900-d2dc-11eb-8958-9cbdfb7cd1c4.png)
 
-##### McLeod Li Test and Normal Q-Q Plot(For Garch Model):
+##### First differencing:
 
-![image](https://user-images.githubusercontent.com/86138415/122758501-35ab7800-d2dc-11eb-908c-6e651b5cf3db.png)
+![image](https://user-images.githubusercontent.com/86138415/122759452-4a3c4000-d2dd-11eb-9fcb-181fd5037c2f.png)
+
 
 ##### ARIMA(3,1,2) residuals: 
 
-![image](https://user-images.githubusercontent.com/86138415/122758578-4f4cbf80-d2dc-11eb-8fd6-30b2798c0898.png)
+![image](https://user-images.githubusercontent.com/86138415/122758501-35ab7800-d2dc-11eb-908c-6e651b5cf3db.png)
+
 
 ##### Forecast: 
 
